@@ -1,0 +1,28 @@
+/* Базовые стили для всего приложения */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Стили для кнопок */
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Стили для select */
+select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}

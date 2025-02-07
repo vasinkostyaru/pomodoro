@@ -1,0 +1,23 @@
+# Зависимости
+node_modules/
+
+# Собранные файлы
+#dist/
+
+# Кэш Vite
+.vite/
+
+# Локальные файлы окружения
+.env
+.env.local
+.env.*.local
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Файлы настроек редакторов
+.DS_Store
+.idea/
+.vscode/
