@@ -2,7 +2,7 @@
 node_modules/
 
 # Собранные файлы
-#dist/
+dist/
 
 # Кэш Vite
 .vite/
