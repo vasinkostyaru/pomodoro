@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/pomodoro/",
     "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
