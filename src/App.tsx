@@ -7,7 +7,7 @@ interface Preset {
 }
 
 const presets: Preset[] = [
-  { focus: 20, break: 5 },
+  { focus: 25 * 60, break: 5 * 60 },
   { focus: 50 * 60, break: 10 * 60 },
   { focus: 90 * 60, break: 15 * 60 }
 ]
